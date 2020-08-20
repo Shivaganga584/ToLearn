@@ -136,6 +136,8 @@ public class MainActivity extends AppCompatActivity {
         for(int i = 0;i<gameStart.length;i++){
             gameStart[i] = 2;
 
+
+
         }
 
     }
